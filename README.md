@@ -91,7 +91,9 @@ http://localhost:8080/hello
 ```
 http://localhost:8080/trainer
 ```
+## 📸 Screenshots
 
+The repository includes screenshots demonstrating the successful execution of the REST API endpoints.
 ---
 
 
