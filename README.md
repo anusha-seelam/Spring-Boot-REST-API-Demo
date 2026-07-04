@@ -100,13 +100,13 @@ http://localhost:8080/trainer
 
 ### Hello API Output
 
-![Hello API Output](hello_demo_output.png)
+![Hello API Output](screenshots/hello_demo_output.png)
 
 ---
 
 ### visit API Output
 
-![Visit API Output](Visit_output.png)
+![visit API Output](screenshots/Visit_output.png)
 
 ---
 
