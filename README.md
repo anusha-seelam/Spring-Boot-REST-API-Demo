@@ -94,13 +94,7 @@ http://localhost:8080/trainer
 
 ---
 
-## 📸 Screenshots
 
-![](screenshots/hello_demo_output.png)
-
-![](screenshots/Visit_output.png)
-
----
 
 ## 🎯 Learning Outcomes
 
