@@ -8,31 +8,31 @@ A simple REST API application developed using **Spring Boot** to demonstrate the
 
 This project demonstrates how to:
 
-- Create a Spring Boot application
-- Build REST APIs using `@RestController`
-- Handle HTTP GET requests using `@GetMapping`
-- Run and test Spring Boot applications
-- Understand the basic architecture of a RESTful web service
+* Create a Spring Boot application
+* Build REST APIs using `@RestController`
+* Handle HTTP GET requests using `@GetMapping`
+* Run and test Spring Boot applications
+* Understand the basic architecture of RESTful web services
 
 ---
 
 ## ✨ Features
 
-- Simple REST API implementation
-- Two GET API endpoints
-- Lightweight and easy to understand
-- Beginner-friendly project structure
-- Built using Spring Boot and Maven
+* Simple REST API implementation
+* Two GET API endpoints
+* Lightweight and beginner-friendly
+* Built using Spring Boot and Maven
+* Easy to understand project structure
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Java
-- Spring Boot
-- Spring Web
-- Maven
-- REST API
+* Java
+* Spring Boot
+* Spring Web
+* Maven
+* REST API
 
 ---
 
@@ -55,10 +55,10 @@ src
 
 ## 🔗 API Endpoints
 
-| HTTP Method | Endpoint | Description |
-|-------------|----------|-------------|
-| GET | `/hello` | Returns a welcome message |
-| GET | `/trainer` | Returns a training message |
+| HTTP Method | Endpoint   | Description                |
+| ----------- | ---------- | -------------------------- |
+| GET         | `/hello`   | Returns a welcome message  |
+| GET         | `/trainer` | Returns a training message |
 
 ---
 
@@ -84,8 +84,6 @@ mvn spring-boot:run
 
 ### 4. Access the API
 
-Open your browser and visit:
-
 ```
 http://localhost:8080/hello
 ```
@@ -96,17 +94,11 @@ http://localhost:8080/trainer
 
 ---
 
-## 📸 Project Output
+## 📸 Screenshots
 
-### Hello API Output
+![](screenshots/hello_demo_output.png)
 
-![Hello API Output](screenshots/hello_demo_output.png)
-
----
-
-### visit API Output
-
-![visit API Output](screenshots/Visit_output.png)
+![](screenshots/Visit_output.png)
 
 ---
 
@@ -114,13 +106,13 @@ http://localhost:8080/trainer
 
 Through this project, I gained practical experience in:
 
-- Spring Boot application development
-- REST API development
-- Creating REST Controllers
-- Handling HTTP GET requests
-- Maven project management
-- Testing REST endpoints
-- Understanding Spring Boot project structure
+* Spring Boot application development
+* REST API development
+* Creating REST Controllers
+* Mapping HTTP requests using `@GetMapping`
+* Managing dependencies with Maven
+* Testing REST endpoints
+* Understanding Spring Boot project architecture
 
 ---
 
@@ -128,7 +120,7 @@ Through this project, I gained practical experience in:
 
 **Anusha Seelam**
 
-**B.Tech Student | Aspiring Data Scientist | Python | SQL | Power BI | Machine Learning | Generative AI | Data Analytics**
+B.Tech Student | Aspiring Data Scientist | Python | SQL | Power BI | Machine Learning | Generative AI | Data Analytics
 
 ---
 
